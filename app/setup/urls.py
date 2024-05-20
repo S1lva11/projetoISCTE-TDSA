@@ -1,3 +1,5 @@
+# DOCUMENTO DE ROTAS DO PROJETO
+
 from django.contrib import admin
 from django.urls import path, include
 

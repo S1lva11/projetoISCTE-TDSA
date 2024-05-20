@@ -45,6 +45,7 @@ DJANGO_APPS = [
 THIRD_PARTY_APPS = [
 ]
 
+# CHAMAR APLICAÇÕES AQUI
 LOCAL_APPS = [
     "index.apps.ClientesConfig",
     "clientes.apps.ClientesConfig",
